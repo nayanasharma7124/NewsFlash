@@ -15,17 +15,14 @@ NewsFlash is a news processing application that analyzes and presents news data 
 
 ## 📸 Screenshots
 
-### 💬 Chat Input
-![Chat Input](images/foodhub_chat_input.png)
+### 📊 Dataset Preview
+![Dataset](images/newsflash_dataset_preview.png)
 
-### 🤖 Chatbot Response
-![Chat Response](images/foodhub_chat_response.png)
+### 📈 Distribution Plot
+![Distribution](images/newsflash_distribution_plot.png)
 
-### 🧾 Order Confirmation
-![Order Confirmation](images/foodhub_order_confirmation.png)
-
-### 🗄️ Database Query
-![Database Query](images/foodhub_database_query.png)
+### 📉 ANOVA Test Result
+![ANOVA](images/newsflash_anova_result.png)
 
 ---
 
