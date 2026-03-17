@@ -6,30 +6,38 @@ NewsFlash is a news processing application that analyzes and presents news data 
 ---
 
 ## ✨ Features
-- News data processing  
-- Content analysis  
-- Structured output generation  
-- Simple and interactive workflow  
+- Data analysis and visualization
+- Statistical analysis using SciPy
+- Distribution analysis (normal distribution)
+- Hypothesis testing using ANOVA
 
 ---
 
 ## 🛠️ Tech Stack
-- Python  
-- Pandas  
-- [Add exact library used in your notebook]
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SciPy
 
 ---
 
 ## 📊 Project Workflow
-1. Data loading  
-2. Data preprocessing  
-3. Processing / analysis logic  
-4. Output generation
+1. Load dataset using Pandas
+2. Perform data cleaning and preparation
+3. Visualize data using Matplotlib and Seaborn
+4. Apply statistical analysis (normal distribution)
+5. Perform hypothesis testing using ANOVA
+6. Interpret results
 
 ---
 
 ## 📈 Output
 The system processes news data and generates structured outputs based on the implemented logic.
+- Statistical insights from data
+- Distribution plots
+- ANOVA test results
 
 ---
 
