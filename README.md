@@ -13,6 +13,22 @@ NewsFlash is a news processing application that analyzes and presents news data 
 
 ---
 
+## 📸 Screenshots
+
+### 💬 Chat Input
+![Chat Input](images/foodhub_chat_input.png)
+
+### 🤖 Chatbot Response
+![Chat Response](images/foodhub_chat_response.png)
+
+### 🧾 Order Confirmation
+![Order Confirmation](images/foodhub_order_confirmation.png)
+
+### 🗄️ Database Query
+![Database Query](images/foodhub_database_query.png)
+
+---
+
 ## 🛠️ Tech Stack
 - Python
 - NumPy
