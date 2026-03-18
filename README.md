@@ -22,7 +22,7 @@ NewsFlash is a news processing application that analyzes and presents news data 
 ![Distribution](images/newsflash_distribution_plot.png)
 
 ### 📉 ANOVA Test Result
-![ANOVA](images/newsflash_anova_result.png)
+![ANOVA](images/newsflash_hypothesis_test_anova.png)
 
 ---
 
